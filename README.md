@@ -1,4 +1,4 @@
-Here's a tailored README file based on the requested format:
+
 
 ---
 
